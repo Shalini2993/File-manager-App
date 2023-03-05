@@ -1,0 +1,17 @@
+.item {
+    height: 4.5rem;
+}
+
+.iconsize {
+    height: 4rem;
+    width: 2rem;
+}
+
+.itemGrid {
+    margin: 1rem;
+}
+
+.iconcolor {
+    color: #1976d2;
+    opacity: 0.75;
+}
